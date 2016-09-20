@@ -166,7 +166,7 @@ class ViewController: UIViewController, ChartViewDelegate {
         self.lineChartView.rightAxis.drawGridLinesEnabled = false
         
         self.lineChartView.xAxis.drawAxisLineEnabled = false
-        self.lineChartView.xAxis.drawGridLinesEnabled = false
+        self.lineChartView.xAxis.drawGridLinesEnabled = false        
         
         sChartData(xAchse)
     }
